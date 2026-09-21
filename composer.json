@@ -1,0 +1,8 @@
+{
+    "name": "amgab/exam-management-system",
+    "description": "Exam Management System",
+    "type": "project",
+    "require": {
+        "mongodb/mongodb": "^2.1"
+    }
+}
